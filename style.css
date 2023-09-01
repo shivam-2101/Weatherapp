@@ -11,7 +11,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: rgba(11, 115, 126, 0.7) url("/icons/bg.jpg");
+  background: rgba(11, 115, 126, 0.7) url("img/bg.jpg");
   background-size: cover;
   background-blend-mode: darken;
   background-position: center;
