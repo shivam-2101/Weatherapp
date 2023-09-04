@@ -22,10 +22,10 @@ This Weather App is a simple web application that allows users to check the weat
 ## Usage
 
 1. **Access the App:**
-   - Visit the Weather App website.
+   - Visit  https://shivam-2101.github.io/Weatherapp/
 
 2. **Search for Weather:**
-   - Enter the name of the city or location in the search bar.
+   - Enter the name of the city or Allow your location in the Get your Location Button.
    -  Hit "Enter."
 
 3. **View Weather Details:**
